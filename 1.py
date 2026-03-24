@@ -3,8 +3,8 @@
 基于2023年游客量394.72万人次、年增长率10%、准确年龄段数据
 """
 import matplotlib.pyplot as plt
-plt.rcParams['font.sans-serif'] = ['Arial Unicode MS', 'SimHei']  # macOS 推荐用 Arial Unicode MS
-plt.rcParams['axes.unicode_minus'] = False  # 解决负号显示问题
+plt.rcParams['font.sans-serif'] = ['Arial Unicode MS', 'SimHei']  
+plt.rcParams['axes.unicode_minus'] = False  
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
